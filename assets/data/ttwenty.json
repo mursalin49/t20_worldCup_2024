@@ -1,0 +1,650 @@
+{
+  "schedule": [
+    {
+      "date": "02-Jun-2024 06:30 AM",
+      "teamOne": "United States",
+      "teamTwo": "Canada",
+      "flagOne": "usa.png",
+      "flagTwo": "ca.png",
+      "group": "A",
+      "venue": "Grand Prairie Stadium,Texas",
+      "time": ""
+    },
+    {
+      "date": "02-Jun-2024 08:30 PM",
+      "teamOne": "West Indies",
+      "teamTwo": "Papua New Guinea",
+      "flagOne": "wi.png",
+      "flagTwo": "pa.png",
+      "group": "A",
+      "venue": "Providence Stadium, West Indies",
+      "time": ""
+    },
+    {
+      "date": "03-Jun-2024 06:30 AM",
+      "teamOne": "Nambia",
+      "teamTwo": "Oman",
+      "flagOne": "na.png",
+      "flagTwo": "om.png",
+      "group": "B",
+      "venue": "Kensington Oval Barbados,West Indies",
+      "time": ""
+    },
+    {
+      "date": "03-Jun-2024 08:30 PM",
+      "teamOne": "Sri Lanka",
+      "teamTwo": "South Africa",
+      "flagOne": "sl.png",
+      "flagTwo": "sa.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium,USA",
+      "time": ""
+    },
+    {
+      "date": "04-Jun-2024 06:30 AM",
+      "teamOne": "Afghanistan",
+      "teamTwo": "Uganda",
+      "flagOne": "af.png",
+      "flagTwo": "ug.png",
+      "group": "A",
+      "venue": "Providence Stadium, West Indies",
+      "time": ""
+    },
+    {
+      "date": "04-Jun-2024 08:30 PM",
+      "teamOne": "England",
+      "teamTwo": "Scotland",
+      "flagOne": "eng.png",
+      "flagTwo": "sc.png",
+      "group": "A",
+      "venue": "Kensington Oval Barbados,West Indies",
+      "time": ""
+    },
+    {
+      "date": "04-Jun-2024 09:30 PM",
+      "teamOne": "Netherlands",
+      "teamTwo": "Nepal",
+      "flagOne": "na.png",
+      "flagTwo": "Nepal.png",
+      "group": "B",
+      "venue": "Grand Prairie Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "05-Jun-2024 08:30 PM",
+      "teamOne": "India ",
+      "teamTwo": "Ireland",
+      "flagOne": "in.png",
+      "flagTwo": "ie.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "06-Jun-2024 05:30 AM",
+      "teamOne": "Papua New Guinea ",
+      "teamTwo": "Uganda",
+      "flagOne": "pa.png",
+      "flagTwo": "ug.png",
+      "group": "A",
+      "venue": "Providence Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "06-Jun-2024 06:30 AM",
+      "teamOne": "Australia",
+      "teamTwo": "oman",
+      "flagOne": "au.png",
+      "flagTwo": "om.png",
+      "group": "A",
+      "venue": "Kensington Oval Barbados, West Indies",
+      "time": ""
+    },
+    {
+      "date": "06-Jun-2024 09:30 PM",
+      "teamOne": "USA",
+      "teamTwo": "Pakistan",
+      "flagOne": "usa.png",
+      "flagTwo": "pk.png",
+      "group": "B",
+      "venue": "Grand Prairie Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "07-Jun-2024 01:00 AM",
+      "teamOne": "Namibia",
+      "teamTwo": "Scotland",
+      "flagOne": "na.png",
+      "flagTwo": "sc.png",
+      "group": "B",
+      "venue": "Kensington Oval Barbados, West Indies",
+      "time": ""
+    },
+    {
+      "date": "07-Jun-2024 08:30 PM",
+      "teamOne": "Canada",
+      "teamTwo": "Ireland",
+      "flagOne": "ca.png",
+      "flagTwo": "ie.png",
+      "group": "A",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "08-Jun-2024 5:30 AM",
+      "teamOne": "New Zealand",
+      "teamTwo": "Afghanistan",
+      "flagOne": "nz.png",
+      "flagTwo": "af.png",
+      "group": "A",
+      "venue": "Providence Stadium,West Indies",
+      "time": ""
+    },
+
+    {
+      "date": "08-Jun-2024 06:30 AM",
+      "teamOne": "Sri Lanka",
+      "teamTwo": "Bangladesh",
+      "flagOne": "sl.png",
+      "flagTwo": "bd.png",
+      "group": "B",
+      "venue": "Grand Prairie Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "08-Jun-2024 08:30 PM",
+      "teamOne": "Netherlands",
+      "teamTwo": "South Africa",
+      "flagOne": "nl.png",
+      "flagTwo": "sa.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "08-Jun-2024 11:00 PM",
+      "teamOne": "Australia",
+      "teamTwo": "England",
+      "flagOne": "au.png",
+      "flagTwo": "eng.png",
+      "group": "B",
+      "venue": "Kensington Oval Barbados, West Indies",
+      "time": ""
+    },
+    {
+      "date": "09-Jun-2024 06:30 AM",
+      "teamOne": "West Indies",
+      "teamTwo": "Uganda",
+      "flagOne": "wi.png",
+      "flagTwo": "ug.png",
+      "group": "B",
+      "venue": "Providence Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "09-Jun-2024 08:30 PM",
+      "teamOne": " India",
+      "teamTwo": "Pakistan",
+      "flagOne": "in.png",
+      "flagTwo": "pk.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "09-Jun-2024 06:30 AM",
+      "teamOne": "Oman",
+      "teamTwo": "Scotland",
+      "flagOne": "om.png",
+      "flagTwo": "sc.png",
+      "group": "B",
+      "venue": "Sir Vivian Richards Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "10-Jun-2024 08:30 PM",
+      "teamOne": "South Africa",
+      "teamTwo": "Bangladesh",
+      "flagOne": "sa.png",
+      "flagTwo": "bd.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "11-Jun-2024 08:30 AM",
+      "teamOne": "Pakistan",
+      "teamTwo": "Canada",
+      "flagOne": "pk.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "12-Jun-2024 05:30 AM",
+      "teamOne": "Sri Lanka",
+      "teamTwo": "Nepal",
+      "flagOne": "sl.png",
+      "flagTwo": "Nepal.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+    {
+      "date": "12-Jun-2024 06:30 AM",
+      "teamOne": "Australia",
+      "teamTwo": "Namibia",
+      "flagOne": "au.png",
+      "flagTwo": "na.png",
+      "group": "B",
+      "venue": "Sir Vivian Richards Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "12-Jun-2024 08:30 PM",
+      "teamOne": "USA",
+      "teamTwo": "India",
+      "flagOne": "usa.png",
+      "flagTwo": "in.png",
+      "group": "B",
+      "venue": "Nassau County International Cricket Stadium, USA",
+      "time": ""
+    },
+    {
+      "date": "13-Jun-2024 06:30 AM",
+      "teamOne": "West Indies",
+      "teamTwo": "New Zealand",
+      "flagOne": "wi.png",
+      "flagTwo": "nz.png",
+      "group": "B",
+      "venue": "Brian Lara Cricket Academy,West Indies",
+      "time": ""
+    },
+    {
+      "date": "13-Jun-2024 08:30 PM",
+      "teamOne": "Bangladesh",
+      "teamTwo": "Netherlands",
+      "flagOne": "bd.png",
+      "flagTwo": "nl.png",
+      "group": "B",
+      "venue": "Arnos Vale Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "14-Jun-2024 01:00 AM",
+      "teamOne": "England",
+      "teamTwo": "Oman",
+      "flagOne": "eng.png",
+      "flagTwo": "om.png",
+      "group": "B",
+      "venue": "Sir Vivian Richards Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 05:30 AM",
+      "teamOne": "South Africa",
+      "teamTwo": "Nepal",
+      "flagOne": "sa.png",
+      "flagTwo": "Nepal.png",
+      "group": "B",
+      "venue": " Arnos Vale Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 06:30 AM",
+      "teamOne": "New Zealand",
+      "teamTwo": "Uganda",
+      "flagOne": "nz.png",
+      "flagTwo": "ug.png",
+      "group": "B",
+      "venue": "Brian Lara Cricket Academy,West Indies",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 08:30 PM",
+      "teamOne": "India",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 11:00 PM",
+      "teamOne": "Namibia",
+      "teamTwo": "England",
+      "flagOne": "na.png",
+      "flagTwo": "eng.png",
+      "group": "B",
+      "venue": "Sir Vivian Richards Stadium,West Indies",
+      "time": ""
+    },
+    {
+      "date": "16-Jun-2024 08:30 PM",
+      "teamOne": "Pakis",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+
+    {
+      "date": "15-Jun-2024 08:30 PM",
+      "teamOne": "India",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 08:30 PM",
+      "teamOne": "India",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 08:30 PM",
+      "teamOne": "India",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+    {
+      "date": "15-Jun-2024 08:30 PM",
+      "teamOne": "India",
+      "teamTwo": "Canada",
+      "flagOne": "in.png",
+      "flagTwo": "ca.png",
+      "group": "B",
+      "venue": "Central Broward Regional Park,USA",
+      "time": ""
+    },
+
+    {
+      "date": "13-Nov-2022 08:00 AM",
+      "teamOne": "TBC",
+      "teamTwo": "TBC",
+      "flagOne": "no_flag.png",
+      "flagTwo": "no_flag.png",
+      "group": "",
+      "venue": "Melbourne Cricket Ground, Melbourne",
+      "time": ""
+    }
+  ],
+  "venues": [
+    {
+      "country": "USA",
+      "city": "Texas",
+      "stadium": "Grand Prairie Stadium",
+      "image": "assets/venues/Grand.jpeg"
+    },
+    {
+      "country": "West Indies ",
+      "city": "Guyana",
+      "stadium": "Providence Stadium",
+      "image": "assets/venues/Providence.jpeg"
+    },
+    {
+      "country": "West Indies",
+      "city": "Barbados",
+      "stadium": "Kensington Oval",
+      "image": "assets/venues/Kensington.jpeg"
+    },
+    {
+      "country": "USA",
+      "city": "New York",
+      "stadium": "Nassau County International Cricket Stadium",
+      "image": "assets/venues/Nassau.jpeg"
+
+    },
+    {
+      "country": "West Indies",
+      "city": "Antigua and Barbuda",
+      "stadium": "Sir Vivian Richards Stadium",
+      "image": "assets/venues/sir.jpeg"
+    },
+    {
+      "country": "USA",
+      "city": "Florida",
+      "stadium": "Central Broward Park & Broward County Stadium",
+      "image": "assets/venues/CBR.jpeg"
+    },
+    {
+      "country": "West Indies",
+      "city": "Saint Lucia",
+      "stadium": "Daren Sammy Cricket Ground",
+      "image": "assets/venues/Beausejou.jpeg"
+    },
+    {
+      "country": "West Indies",
+      "city": "Saint Vincent",
+      "stadium": "Arnos Vale Stadium",
+      "image": "assets/venues/Arnos.jpeg"
+    }
+  ],
+  "teams": [
+    {
+      "fullName": "Namibia",
+      "shortName": "NAM",
+      "captain": "Gerhard Erasmus",
+      "flag": "assets/flags/na.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Netherlands",
+      "shortName": "NL",
+      "captain": "Scott Edwards",
+      "flag": "assets/flags/nl.png",
+      "captainImage": "assets/captains/edwards.jpeg"
+    },
+    {
+      "fullName": "Sri Lanka",
+      "shortName": "SL",
+      "captain": "Dasun Shanaka",
+      "flag": "assets/flags/sl.png",
+      "captainImage": "assets/captains/shanaka.jpeg"
+    },
+    {
+      "fullName": "UAE",
+      "shortName": "UAE",
+      "captain": "CP Rizwan",
+      "flag": "assets/flags/uae.gif",
+      "captainImage": "assets/captains/cp_rizwan.jpeg"
+    },
+    {
+      "fullName": "Ireland",
+      "shortName": "IRE",
+      "captain": "Andrew Balbirnie",
+      "flag": "assets/flags/ie.png",
+      "captainImage": "assets/captains/balbirnie.jpeg"
+    },
+    {
+      "fullName": "Scotland",
+      "shortName": "SCT",
+      "captain": "Mohammad Naveed",
+      "flag": "assets/flags/sc.png",
+      "captainImage": "assets/captains/naveed.jpeg"
+    },
+    {
+      "fullName": "West Indies",
+      "shortName": "WI",
+      "captain": "Nicholas Pooran",
+      "flag": "assets/flags/wi.png",
+      "captainImage": "assets/captains/pooran.jpeg"
+    },
+    {
+      "fullName": "Zimbabwe",
+      "shortName": "ZM",
+      "captain": "Craig Ervine",
+      "flag": "assets/flags/zw.png",
+      "captainImage": "assets/captains/ervine.jpeg"
+    },
+    {
+      "fullName": "Afghanistan",
+      "shortName": "AFG",
+      "captain": "Mohammad Nabi",
+      "flag": "assets/flags/af.png",
+      "captainImage": "assets/captains/nabi.jpeg"
+    },
+    {
+      "fullName": "Australia",
+      "shortName": "AUS",
+      "captain": "Aaron Finch",
+      "flag": "assets/flags/au.png",
+      "captainImage": "assets/captains/finch.jpeg"
+    },
+    {
+      "fullName": "England",
+      "shortName": "ENG",
+      "captain": "Jos Butler",
+      "flag": "assets/flags/eng.png",
+      "captainImage": "assets/captains/butler.jpeg"
+    },
+    {
+      "fullName": "New Zealand",
+      "shortName": "NZ",
+      "captain": "Kane Williamson",
+      "flag": "assets/flags/nz.png",
+      "captainImage": "assets/captains/williamson.jpeg"
+    },
+    {
+      "fullName": "Bangladesh",
+      "shortName": "BD",
+      "captain": "Shakib-Al Hasan",
+      "flag": "assets/flags/bd.png",
+      "captainImage": "assets/captains/shakib.jpeg"
+    },
+    {
+      "fullName": "India",
+      "shortName": "IND",
+      "captain": "Rohit Sharma",
+      "flag": "assets/flags/in.png",
+      "captainImage": "assets/captains/rohit.jpeg"
+    },
+    {
+      "fullName": "Pakistan",
+      "shortName": "PAK",
+      "captain": "Babar Azam",
+      "flag": "assets/flags/pk.png",
+      "captainImage": "assets/captains/babar.jpeg"
+    },
+    {
+      "fullName": "South Africa",
+      "shortName": "SA",
+      "captain": "Temba Bavuma",
+      "flag": "assets/flags/sa.png",
+      "captainImage": "assets/captains/bavuma.jpeg"
+    }
+  ],
+  "history": [
+    {
+      "winner": "USA ",
+      "runnerUp":  "Canada",
+      "host": "USA",
+      "winnerFlag": "usa.png",
+      "runnerUpFlag": "ca.png",
+      "winnerCaptain": "assets/history/saad.jpg",
+      "runnerUpCaptain":  "assets/history/monank.jpg",
+      "winnerScore": "157/5 (20 overs)",
+      "runnerUpScore": "152/10 (19.4 overs)",
+      "year": "2007"
+    },
+    {
+      "winner": "Pakistan",
+      "runnerUp": "Sri Lanka",
+      "winnerFlag": "pk.png",
+      "runnerUpFlag": "sl.png",
+      "winnerCaptain": "assets/history/younas.png",
+      "runnerUpCaptain":  "assets/history/sangakara.png",
+      "winnerScore": "139/2 (18.4 overs)",
+      "runnerUpScore": "138/6 (20 overs)",
+      "host": "England",
+      "year": "2009"
+    },
+    {
+      "winner": "England",
+      "runnerUp": "Australia",
+      "winnerFlag": "eng.png",
+      "runnerUpFlag": "wi.png",
+      "winnerCaptain": "assets/history/collingwood.png",
+      "runnerUpCaptain":  "assets/history/haddin.png",
+      "winnerScore": "148/3 (17 overs)",
+      "runnerUpScore": "147/6 (20 overs)",
+      "host": "West Indies",
+      "year": "2010"
+    },
+    {
+      "winner": "West Indies",
+      "runnerUp": "Sri Lanka",
+      "winnerFlag": "wi.png",
+      "runnerUpFlag": "sl.png",
+      "winnerCaptain": "assets/history/sammy.png",
+      "runnerUpCaptain":  "assets/history/angelo.png",
+      "winnerScore": "137/6 (20 overs)",
+      "runnerUpScore": "101 all out (18.4 overs)",
+      "host": "Sri Lanka",
+      "year": "2012"
+    },
+    {
+      "winner": "Sri Lanka",
+      "runnerUp": "India",
+      "winnerFlag": "sl.png",
+      "runnerUpFlag": "in.png",
+      "winnerCaptain": "assets/history/malinga.png",
+      "runnerUpCaptain":  "assets/history/dhoni.png",
+      "winnerScore": "134/4 (17.5 overs)",
+      "runnerUpScore": "130/4 (20 overs)",
+      "host": "Bangladesh",
+      "year": "2014"
+    },
+    {
+      "winner": "West Indies",
+      "runnerUp": "England",
+      "winnerFlag": "wi.png",
+      "runnerUpFlag": "eng.png",
+      "winnerCaptain": "assets/history/sammy.png",
+      "runnerUpCaptain":  "assets/history/butler.png",
+      "winnerScore": "161/6 (19.4 overs)",
+      "runnerUpScore": "155/9 (20 overs)",
+      "host": "India",
+      "year": "2016"
+    },
+    {
+      "winner": "Postponed",
+      "runnerUp": "Postponed",
+      "winnerFlag": "no_flag.png",
+      "runnerUpFlag": "no_flag.png",
+      "winnerCaptain": "assets/flags/no_flag.png",
+      "runnerUpCaptain":  "assets/flags/no_flag.png",
+      "winnerScore": "",
+      "runnerUpScore": "",
+      "host": "Australia",
+      "year": "2020"
+    },
+    {
+      "winner": "Australia",
+      "runnerUp": "New Zealand",
+      "winnerFlag": "au.png",
+      "runnerUpFlag": "nz.png",
+      "winnerCaptain": "assets/history/finch.png",
+      "runnerUpCaptain":  "assets/history/williamson.png",
+      "winnerScore": "173/2 (18.5 overs)",
+      "runnerUpScore": "172/4 (20 overs)",
+      "host": "UAE & Oman",
+      "year": "2021"
+    }
+  ]
+} 
